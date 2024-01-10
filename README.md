@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Welcome to the GitHub repository for the NSW & ACT Early Learning Data Analysis Project, an internship initiative at Uniting. This project harnesses advanced data and spatial analysis to address key challenges in early childhood education in Statistical Area Level 2 (SA2) in New South Wales (NSW) and the Australian Capital Territory (ACT).
+Welcome to the GitHub repository for the NSW & ACT Early Learning Data Analysis Project, an internship initiative at Uniting. This project focuses to utilize advanced data and spatial analysis to address key challenges in early childhood education in Statistical Area Level 2 (SA2) in New South Wales (NSW) and the Australian Capital Territory (ACT).
 
 ## Project Aim
 
